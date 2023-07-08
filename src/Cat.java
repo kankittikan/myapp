@@ -1,4 +1,4 @@
 public class Cat {
-    private String name;
+    private String namE;
     private String color;
 }
